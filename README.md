@@ -43,7 +43,7 @@ Tools
 
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-Network
+Network & Analysys tools
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
@@ -51,7 +51,18 @@ Network
 </div
   
 Endpoint
- 
+
+
+Vulnerability Management: 
+<!-- Vulnerability Management Tools -->
+<div>
+<img src="https://img.shields.io/badge/-Nessus-00AEEF?&style=for-the-badge&logo=tenable&logoColor=white" />
+<img src="https://img.shields.io/badge/-Qualys-ED2E26?&style=for-the-badge&logo=qualys&logoColor=white" />
+<img src="https://img.shields.io/badge/-OpenVAS-48A547?&style=for-the-badge&logo=gnuprivacyguard&logoColor=white" />
+<img src="https://img.shields.io/badge/-Tanium-87CEEB?&style=for-the-badge&logo=shield&logoColor=white" />
+<img src="https://img.shields.io/badge/-WebInspect-87CEEB?&style=for-the-badge&logo=shield&logoColor=white" />
+<img src="https://img.shields.io/badge/-DB Protectt-87CEEB?&style=for-the-badge&logo=shield&logoColor=white" />
+</div>
 SIEM
   
 Certifications
