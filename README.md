@@ -89,15 +89,16 @@ TOOLS
   <img src="https://img.shields.io/badge/-Jira-0052CC?&style=for-the-badge&logo=jira&logoColor=white" />
 </div>
 
-Compliance & Frameworks:
+
 Certifications
     <div>
         <img src="https://img.shields.io/badge/Google%20IT%20Support%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" />
         <img src="https://img.shields.io/badge/CompTIA%20Security%2B-FF0000?style=for-the-badge&logo=compTIA&logoColor=white" />
-        <img src="https://img.shields.io/badge/CompTIA%20CySA%2B-FF6600?style=for-the-badge&logo=compTIA&logoColor=white" />
-     
+        <img src="https://img.shields.io/badge/CompTIA%20CySA%2B-FF6600?style=for-the-badge&logo=compTIA&logoColor=white" />  
     </div>
     
 Projects
-Detection Lab
-SOC Automation Project
+  
+-Detection Lab
+
+-SOC Automation Project
