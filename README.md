@@ -38,40 +38,62 @@ Skills
 | Case Management with TheHive                      | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation    | SOC Automation Lab|
 
-
-Tools
-
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
-Network & Analysys tools
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div
+TOOLS                  
   
-Endpoint
-
-
-Vulnerability Management: 
-<!-- Vulnerability Management Tools -->
+🔹  Network & Analysys tools 
 <div>
-<img src="https://img.shields.io/badge/-Nessus-00AEEF?&style=for-the-badge&logo=tenable&logoColor=white" />
-<img src="https://img.shields.io/badge/-Qualys-ED2E26?&style=for-the-badge&logo=qualys&logoColor=white" />
+<img src="https://img.shields.io/badge/-wiresharck-ED2E26?&style=for-the-badge&logo=qualys&logoColor=white" />
+<img src="https://img.shields.io/badge/-Suricata-48A547?&style=for-the-badge&logo=gnuprivacyguard&logoColor=white" />
+<img src="https://img.shields.io/badge/-Tcpdump-87CEEB?&style=for-the-badge&logo=shield&logoColor=white" />
+         
+</div>
+ 
+🔹 Vulnerability Management Tools
+        
+  <div>
+      <img src="https://img.shields.io/badge/-Nessus-00AEEF?&style=for-the-badge&logo=tenable&logoColor=white" />
+
+ <img src="https://img.shields.io/badge/-Qualys-ED2E26?&style=for-the-badge&logo=qualys&logoColor=white" />
 <img src="https://img.shields.io/badge/-OpenVAS-48A547?&style=for-the-badge&logo=gnuprivacyguard&logoColor=white" />
 <img src="https://img.shields.io/badge/-Tanium-87CEEB?&style=for-the-badge&logo=shield&logoColor=white" />
-<img src="https://img.shields.io/badge/-WebInspect-87CEEB?&style=for-the-badge&logo=shield&logoColor=white" />
-<img src="https://img.shields.io/badge/-DB Protectt-87CEEB?&style=for-the-badge&logo=shield&logoColor=white" />
+ <img src="https://img.shields.io/badge/-WebInspect-87CEEB?&style=for-the-badge&logo=shield&logoColor=white" />
+ <img src="https://img.shields.io/badge/-DB Protectt-87CEEB?&style=for-the-badge&logo=shield&logoColor=white" />
+    </div>
+      
+🔹 Security Platforms & SIEM
+ <div>
+ <img src="https://img.shields.io/badge/-Splunk%20Enterprise%20Security-000000?&style=for-the-badge&logo=splunk&logoColor=white" />
+ <img src="https://img.shields.io/badge/-AlienVault-3DDC84?&style=for-the-badge&logo=alienware&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
+ </div>
+                
+ 🔹 Endpoint & Threat Protection
+    <div>
+    <img src="https://img.shields.io/badge/-SentinelOne-6C3EB8?&style=for-the-badge&logo=sentinelone&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CrowdStrike%20Falcon-E01E5A?&style=for-the-badge&logo=crowdstrike&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Fortinet-EE1C25?&style=for-the-badge&logo=fortinet&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Defender%20for%20Endpoint-0078D4?&style=for-the-badge&logo=microsoftdefender&logoColor=white" />
+     <img src="https://img.shields.io/badge/-Proofpoint-FFD100?&style=for-the-badge&logo=proofpoint&logoColor=black" />
+    </div>
+                
+  🔹 GRC & Compliance
+   <div>
+    <img src="https://img.shields.io/badge/-RSA%20Archer-CC0000?&style=for-the-badge&logo=rsa&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Vanta-5A67D8?&style=for-the-badge&logo=trustpilot&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OneTrust-00B140?&style=for-the-badge&logo=trustpilot&logoColor=white" />
+    </div>
+                    
+🔹 ITSM & Workflow
+ <div>
+  <img src="https://img.shields.io/badge/-ServiceNow-1DBF73?&style=for-the-badge&logo=servicenow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Jira-0052CC?&style=for-the-badge&logo=jira&logoColor=white" />
 </div>
-SIEM
-  
+
+Compliance & Frameworks:
 Certifications
-
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-
-</div>
+    <div>
+        <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    </div>
     
 Projects
 Detection Lab
