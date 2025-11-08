@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hello, I'm Mulualem Woldeyes
-I am a cybersecurity professional with over four years of practical experience in **threat detection**, **incident response**, and **security monitoring**. My expertise includes implementing and managing **SIEM** and **EDR solutions**, analyzing network and endpoint data, and aligning security practices with industry standards.
+
+I am a cybersecurity professional with over four years of practical experience in **threat detection**, **incident response**, and **security monitoring**. 
+My expertise includes implementing and managing **SIEM** and **EDR solutions**, analyzing network and endpoint data, and aligning security practices with industry standards.
 
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
