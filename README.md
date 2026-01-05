@@ -103,8 +103,8 @@ Certifications
     
 Projects
   
--Microsoft Sentienal <a href="Microsoft Sentienal">Link text</a>
-  - Creat an accounts at least two users and activates E5 licenses to all of them.
+-Microsoft Sentienal <a href="Microsoft Sentienal"> Project 1 </a>
+ 
       
 
 -SOC Automation Project
