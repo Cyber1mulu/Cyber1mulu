@@ -35,7 +35,7 @@ Skills
 
 | Skill                                             | Associated Project         |
 |-----------------------------------------------    |----------------------------|
-| SIEM Implementation and Log Analysis              | Detection Lab</a>|
+| SIEM Implementation and Log Analysis              | <a> Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection   | Detection Lab</a>|
 | Security Automation with Shuffle SOAR             | SOC Automation Lab|
 | Incident Response Planning and Execution          | SOC Automation Lab|
@@ -103,6 +103,8 @@ Certifications
     
 Projects
   
--Detection Lab
+-Microsoft Sentienal <a href="Microsoft Sentienal">Link text</a>
+  - Creat an accounts at least two users and activates E5 licenses to all of them.
+      
 
 -SOC Automation Project
