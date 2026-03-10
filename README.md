@@ -31,7 +31,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 Skills
 
 
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                             | Associated Project         |
 |-----------------------------------------------    |----------------------------|
